@@ -1,0 +1,8 @@
+DOM:
+Quando fizer o fetch, buscar o array e para cada item do array: 
+1.Criar um elemento div
+2.Atribuir uma classe a esse elemento
+3.Informar o conteúdo desse elmento
+4.Append child
+
+
